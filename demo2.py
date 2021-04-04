@@ -4,7 +4,7 @@ def show_love(num):
     if num%2 == 0:
         print("is even")
     else:
-        print("is not even--")
+        print("is not even----")
 
 
 if __name__ == "__main__":
